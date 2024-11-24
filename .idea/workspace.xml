@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e7e200-fc28-4ad2-9cdf-4f067624c270" name="Changes" comment="დასრულდა ჰანგმან-ის პროექტი">
-      <change afterPath="$PROJECT_DIR$/Hangman/hangman_library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hangman/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="a0e7e200-fc28-4ad2-9cdf-4f067624c270" name="Changes" comment="ჰანგმანის თამაში გადავიდა პროექტში" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,7 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "day-7-3"
+    "git-widget-placeholder": "day-7-4"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -139,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732479131506</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="დასრულდა ჰანგმან-ის პროექტი">
+      <option name="closed" value="true" />
+      <created>1732479905081</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732479905081</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ჰანგმანის თამაში გადავიდა პროექტში">
+      <option name="closed" value="true" />
+      <created>1732480183288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732480183288</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +183,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="daemata testi" />
     <MESSAGE value="დასრულდა ჰანგმან-ის პროექტი" />
-    <option name="LAST_COMMIT_MESSAGE" value="დასრულდა ჰანგმან-ის პროექტი" />
+    <MESSAGE value="ჰანგმანის თამაში გადავიდა პროექტში" />
+    <option name="LAST_COMMIT_MESSAGE" value="ჰანგმანის თამაში გადავიდა პროექტში" />
   </component>
 </project>
